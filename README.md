@@ -20,6 +20,7 @@ When I'm not doing anything above you can find me exploring the world and enjoyi
 ## My Content
 - [StackOverflow Profile](https://stackoverflow.com/users/10851213/fingers10)
 - [LinkedIn Profile](https://www.linkedin.com/in/fingers10)
+- [Youtube Channel](https://www.youtube.com/channel/UCOS3wCw7SVXjXXffMPqid7A)
 
 ## My Stats
 <img  src="https://github-readme-stats.vercel.app/api?username=fingers10&count_private=true&show_icons=true&hide_title=true" />

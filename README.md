@@ -18,9 +18,11 @@ I love to make things of my own. My interests revolves on Designing UI and code 
 When I'm not doing anything above you can find me exploring the world and enjoying the time with my family.
 
 ## My Content
-- [StackOverflow Profile](https://stackoverflow.com/users/10851213/fingers10)
-- [LinkedIn Profile](https://www.linkedin.com/in/fingers10)
-- [Youtube Channel](https://www.youtube.com/channel/UCOS3wCw7SVXjXXffMPqid7A)
+|Profile      |Badge|
+|-------------|-----|
+|StackOverflow|<a href="https://stackoverflow.com/users/10851213/fingers10"><img src="https://stackoverflow.com/users/flair/10851213.png" width="208" height="58" alt="profile for fingers10 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for fingers10 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>|
+|LinkedIn     |[LinkedIn Profile](https://www.linkedin.com/in/fingers10)|
+|YouTube      |[Youtube Channel](https://www.youtube.com/channel/UCOS3wCw7SVXjXXffMPqid7A)|
 
 ## My Stats
 <img  src="https://github-readme-stats.vercel.app/api?username=fingers10&count_private=true&show_icons=true&hide_title=true" />

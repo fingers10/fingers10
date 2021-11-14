@@ -21,7 +21,7 @@ When I'm not doing anything above you can find me exploring the world and enjoyi
 |Profile      |Badge|
 |-------------|-----|
 |StackOverflow|<a href="https://stackoverflow.com/users/10851213/fingers10"><img src="https://stackoverflow.com/users/flair/10851213.png" width="208" height="58" alt="profile for fingers10 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for fingers10 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>|
-|LinkedIn     |[LinkedIn Profile](https://www.linkedin.com/in/fingers10)|
+|LinkedIn     |<a href="https://www.linkedin.com/in/fingers10"><img src="https://user-images.githubusercontent.com/43729469/141690762-9e79462c-70be-4339-a76e-e25e2e42ad4d.png" alt="profile for fingers10 at LinkedIn" title="profile for fingers10 at LinkedIn"></a>|
 |YouTube      |[Youtube Channel](https://www.youtube.com/channel/UCOS3wCw7SVXjXXffMPqid7A)|
 
 ## My Stats

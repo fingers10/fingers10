@@ -26,7 +26,14 @@ When I'm not doing anything above you can find me exploring the world and enjoyi
 |I ❤️ .NET      |[I ❤️ .NET](https://www.ilovedotnet.org)|
 
 ## My Stats
-<img  src="https://github-readme-stats.vercel.app/api?username=fingers10&count_private=true&show_icons=true&hide_title=true" />
+<img  src="https://github-readme-stats.vercel.app/api?username=fingers10&count_private=true&show_icons=true&theme=dark" alt="fingers10" />
+  
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardalis&layout=compact&hide=html&theme=dark" alt="ardalis" />
+<div/>
+<br />
+
+![Profile Views](https://komarev.com/ghpvc/?username=fingesr10&style=flat-square&color=red)
 
 
 - 🔭 I’m currently working on [I ❤️ .NET](https://www.ilovedotnet.org)

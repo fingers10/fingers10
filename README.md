@@ -23,6 +23,7 @@ When I'm not doing anything above you can find me exploring the world and enjoyi
 |StackOverflow|<a href="https://stackoverflow.com/users/10851213/fingers10"><img src="https://stackoverflow.com/users/flair/10851213.png" width="208" height="58" alt="profile for fingers10 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for fingers10 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>|
 |LinkedIn     |<a href="https://www.linkedin.com/in/fingers10"><img src="https://user-images.githubusercontent.com/43729469/141690762-9e79462c-70be-4339-a76e-e25e2e42ad4d.png" alt="profile for fingers10 at LinkedIn" title="profile for fingers10 at LinkedIn"></a>|
 |YouTube      |[Youtube Channel](https://www.youtube.com/channel/UCOS3wCw7SVXjXXffMPqid7A)|
+|I ❤️ .NET      |[I ❤️ .NET](https://www.ilovedotnet.org)|
 
 ## My Stats
 <img  src="https://github-readme-stats.vercel.app/api?username=fingers10&count_private=true&show_icons=true&hide_title=true" />

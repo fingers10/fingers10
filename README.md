@@ -22,8 +22,8 @@ When I'm not doing anything above you can find me exploring the world and enjoyi
 |-------------|-----|
 |StackOverflow|<a href="https://stackoverflow.com/users/10851213/fingers10"><img src="https://stackoverflow.com/users/flair/10851213.png" width="208" height="58" alt="profile for fingers10 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for fingers10 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>|
 |LinkedIn     |<a href="https://www.linkedin.com/in/fingers10"><img src="https://user-images.githubusercontent.com/43729469/141690762-9e79462c-70be-4339-a76e-e25e2e42ad4d.png" alt="profile for fingers10 at LinkedIn" title="profile for fingers10 at LinkedIn"></a>|
-|YouTube      |[Youtube Channel](https://www.youtube.com/channel/UCOS3wCw7SVXjXXffMPqid7A)|
-|I ❤️ .NET      |[I ❤️ .NET](https://www.ilovedotnet.org)|
+|YouTube      |[![Youtube Channel](https://img.shields.io/website?label=I%20%E2%9D%A4%EF%B8%8F%20.NET&color=blueviolet&style=for-the-badge&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCOS3wCw7SVXjXXffMPqid7A)](https://www.youtube.com/channel/UCOS3wCw7SVXjXXffMPqid7A)|
+|I ❤️ .NET      |[![Website](https://img.shields.io/website?label=ILoveDotNet.org&style=for-the-badge&url=https%3A%2F%2Filovedotnet.org)](https://ilovedotnet.org)|
 
 ## My Stats
 <img  src="https://github-readme-stats.vercel.app/api?username=fingers10&count_private=true&show_icons=true&theme=dark" alt="fingers10" />
@@ -34,7 +34,6 @@ When I'm not doing anything above you can find me exploring the world and enjoyi
 <br />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fingesr10&style=flat-square&color=red)
-
 
 - 🔭 I’m currently working on [I ❤️ .NET](https://www.ilovedotnet.org)
 - 🌱 I’m currently learning Blazor, MAUI, ML.NET

@@ -1,5 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+I'm the founder and solo developer and author of [I ❤️ .NET](https://ilovedotnet.org)
+
 I'm an trust worthy, lazy and young self-taught technology lover who likes to architecture and work on bleeding edge technologies. Accomplished secure software developer with more than 6 years of experience in development using Microsoft Tech Stack - .NET and popular front end Tech Stack like HTML5, CSS3 and JavaScript.
 
 I make it my mission and help corporates, start-ups, non-profits, open-source to convert their business/ideas into Robust, Accessible and Secure Software Products by providing top notch service and help them survive in their business with success.
